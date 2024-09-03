@@ -1,13 +1,13 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.4.28)  1 SEP 2024 01:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.4.28)  3 SEP 2024 00:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **"c:/Users/Nia/Documents/Other/Work/Teaching/Materials/Linear Algebra/Linear E
-quations Overview/Repos/LinearEquationsOverview/linear_equations_review.tex"
+quations Overview/Repos/LinearEquationsOverview/linear_equations_overview.tex"
 
 (c:/Users/Nia/Documents/Other/Work/Teaching/Materials/Linear Algebra/Linear Equ
-ations Overview/Repos/LinearEquationsOverview/linear_equations_review.tex
+ations Overview/Repos/LinearEquationsOverview/linear_equations_overview.tex
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-02-20>
 (C:\Users\Nia\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cls
@@ -572,13 +572,13 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \c@theorem=\count309
 \c@definition=\count310
 LaTeX Font Info:    Trying to load font information for T1+txtt on input line 8
-37.
+43.
 
 (C:\Users\Nia\AppData\Local\Programs\MiKTeX\tex/latex/txfonts\t1txtt.fd
 File: t1txtt.fd 2000/12/15 v3.1
 ))
-(linear_equations_review.aux)
-\openout1 = `linear_equations_review.aux'.
+(linear_equations_overview.aux)
+\openout1 = `linear_equations_overview.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 10.
 LaTeX Font Info:    ... okay on input line 10.
@@ -661,9 +661,9 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman
 )
 Package hyperref Info: Link coloring ON on input line 10.
 
-(linear_equations_review.out) (linear_equations_review.out)
+(linear_equations_overview.out) (linear_equations_overview.out)
 \@outlinefile=\write3
-\openout3 = `linear_equations_review.out'.
+\openout3 = `linear_equations_overview.out'.
 
 Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           Using `bookmark' together with `hyperref' is recommended,
@@ -754,58 +754,92 @@ Package pdftex.def Info: x + y + z = 1.png  used on input line 20.
 
 {C:/Users/Nia/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./x + y + z = 
 1.png>]
-<Planes Make the Next Dimension.png, id=17, 919.0335pt x 456.5055pt>
+<Planes Make the Next Dimension.png, id=18, 919.0335pt x 456.5055pt>
 File: Planes Make the Next Dimension.png Graphic file (type png)
 <use Planes Make the Next Dimension.png>
 Package pdftex.def Info: Planes Make the Next Dimension.png  used on input line
  39.
 (pdftex.def)             Requested size: 367.60689pt x 182.59895pt.
-<Intercepts of Linear Equations.png, id=18, 548.64975pt x 486.01575pt>
+ [2]
+<Intercepts of Linear Equations.png, id=28, 548.64975pt x 486.01575pt>
 File: Intercepts of Linear Equations.png Graphic file (type png)
 <use Intercepts of Linear Equations.png>
 Package pdftex.def Info: Intercepts of Linear Equations.png  used on input line
- 46.
-(pdftex.def)             Requested size: 329.19238pt x 291.6117pt.
- [2 <./Planes Make the Next Dimension.png>]
-<Coefficient Affects Slope in that Axis.png, id=25, 557.08125pt x 486.01575pt>
+ 48.
+(pdftex.def)             Requested size: 274.3242pt x 243.00728pt.
+ [3 <./Planes Make the Next Dimension.png>]
+<Coefficient Affects Slope in that Axis.png, id=35, 557.08125pt x 486.01575pt>
 File: Coefficient Affects Slope in that Axis.png Graphic file (type png)
 <use Coefficient Affects Slope in that Axis.png>
 Package pdftex.def Info: Coefficient Affects Slope in that Axis.png  used on in
-put line 53.
-(pdftex.def)             Requested size: 334.25133pt x 291.6117pt.
- [3 <./Intercepts of Linear Equations.png>] [4 <./Coefficient Affects Slope in 
-that Axis.png>] [5]
-[6] [7] [8] (linear_equations_review.aux)
+put line 55.
+(pdftex.def)             Requested size: 194.98135pt x 170.10805pt.
+ [4 <./Intercepts of Linear Equations.png> <./Coefficient Affects Slope in that
+ Axis.png>] [5]
+[6] [7] [8] [9] [10] [11]
+<Another Intercept of Three Planes.png, id=87, 545.03625pt x 483.0045pt>
+File: Another Intercept of Three Planes.png Graphic file (type png)
+<use Another Intercept of Three Planes.png>
+Package pdftex.def Info: Another Intercept of Three Planes.png  used on input l
+ine 280.
+(pdftex.def)             Requested size: 218.01064pt x 193.19836pt.
+ [12]
+<Intercept of Two Planes.png, id=93, 558.888pt x 485.4135pt>
+File: Intercept of Two Planes.png Graphic file (type png)
+<use Intercept of Two Planes.png>
+Package pdftex.def Info: Intercept of Two Planes.png  used on input line 287.
+(pdftex.def)             Requested size: 223.55124pt x 194.16196pt.
+ [13 <./Another Intercept of Three Planes.png> <./Intercept of Two Planes.png>]
+<Three Planes All In a Line.png, id=103, 534.19576pt x 509.5035pt>
+File: Three Planes All In a Line.png Graphic file (type png)
+<use Three Planes All In a Line.png>
+Package pdftex.def Info: Three Planes All In a Line.png  used on input line 311
+.
+(pdftex.def)             Requested size: 117.52342pt x 112.09111pt.
+<All Just One Plane.png, id=104, 534.798pt x 487.8225pt>
+File: All Just One Plane.png Graphic file (type png)
+<use All Just One Plane.png>
+Package pdftex.def Info: All Just One Plane.png  used on input line 326.
+(pdftex.def)             Requested size: 112.31088pt x 102.44574pt.
+ [14 <./Three Planes All In a Line.png> <./All Just One Plane.png>] [15] [16] [
+17] [18] [19] [20] [21]
+(linear_equations_overview.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2020/03/25>
  ***********
-Package rerunfilecheck Info: File `linear_equations_review.out' has not changed
-.
+Package rerunfilecheck Info: File `linear_equations_overview.out' has not chang
+ed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 19568 strings out of 474436
- 338427 string characters out of 5742898
- 1945190 words of memory out of 5000000
- 41567 multiletter control sequences out of 15000+600000
- 570523 words of font info for 115 fonts, out of 8000000 for 9000
+ 19731 strings out of 474436
+ 341381 string characters out of 5742898
+ 1952190 words of memory out of 5000000
+ 41642 multiletter control sequences out of 15000+600000
+ 573434 words of font info for 150 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,18n,107p,11080b,478s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Nia/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cm
-ex10.pfb><C:/Users/Nia/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
-s/cm/cmmi12.pfb><C:/Users/Nia/AppData/Local/Programs/MiKTeX/fonts/type1/public/
-amsfonts/cm/cmmi8.pfb><C:/Users/Nia/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmr12.pfb><C:/Users/Nia/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmr6.pfb><C:/Users/Nia/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Nia/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/Nia/AppData/Local/Prog
-rams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Nia/AppData/Loc
-al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Nia/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on linear_equations_review.pdf (8 pages, 657465 bytes).
+ 108i,18n,107p,11082b,532s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Nia\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm12
+00.pk><C:/Users/Nia/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmbx12.pfb><C:/Users/Nia/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmex10.pfb><C:/Users/Nia/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmmi10.pfb><C:/Users/Nia/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Nia/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Nia/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Nia/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Nia/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Nia/AppData/
+Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Nia/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Ni
+a/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:
+/Users/Nia/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb><C:/Users/Nia/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmsy8.pfb><C:/Users/Nia/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmti12.pfb>
+Output written on linear_equations_overview.pdf (21 pages, 935138 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 22549 words of extra memory for PDF output out of 24883 (max. 10000000)
+ 221 PDF objects out of 1000 (max. 8388607)
+ 43 named destinations out of 1000 (max. 500000)
+ 28713 words of extra memory for PDF output out of 29859 (max. 10000000)
 
